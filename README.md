@@ -71,6 +71,7 @@ newSection:NewDropDown(name,desc,options,function)
 ## Getting the exploit name
 
 > Works for most exploits
+> Can be used to block executors from using your UI
 
 ```
 local Executor = library:detectExploit()
