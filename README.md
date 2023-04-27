@@ -101,9 +101,9 @@ library:Notify(name,desc,buttons,extra)
 library:DestroyGUI()
 ```
 
-## Once finished it should look like this
+## Here is an example
 
-> This is an example
+> This is an example, do NOT use this. Use it as a reference
 
 ```
 local lib = loadstring(game:HttpGet("https://raw.githubusercontent.com/Vu1tu43/roblox-scripts/main/ui-lib.lua"))
